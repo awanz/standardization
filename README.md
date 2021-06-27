@@ -1,2 +1,3 @@
-## table of contents
-1. Example README for Git
+## Table of Contents
+
+1. [Example README for Git](readme_git.md)
