@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/awanz/php-mysqli-base)](https://github.com/awanz/php-mysqli-base/stargazers)
 [![GitHub license](https://img.shields.io/github/license/awanz/php-mysqli-base)](https://github.com/awanz/php-mysqli-base)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://www.paypal.me/awanjh)
-[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Your%20Tweet)
+[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/)
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/awangram)  
 
 ## About of Application
